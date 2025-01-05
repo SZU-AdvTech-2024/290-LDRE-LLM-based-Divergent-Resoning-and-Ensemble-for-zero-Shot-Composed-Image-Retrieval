@@ -1,0 +1,7 @@
+@inproceedings{REPO290,
+    author = "Yang, Zhenyu and Xue, Dizhan and Qian, Shengsheng and Dong, Weiming and Xu, Changsheng",
+    booktitle = "Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    pages = "80--90",
+    title = "{LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval}",
+    year = "2024"
+}
